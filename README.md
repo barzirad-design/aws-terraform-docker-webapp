@@ -18,10 +18,13 @@ This project demonstrates the automation of cloud infrastructure using **Terrafo
 ## Project Screenshots
 
 ### 1. Infrastructure Provisioning (Terraform Apply)
-![Terraform Apply](<225201 2026-08-29 צילום מסך.png>)
+<img width="1528" height="963" alt="צילום מסך 2026-08-29 225201" src="https://github.com/user-attachments/assets/ebfc0d9d-abd2-476c-bb96-6f517b9d2280" />
+
 
 ### 2. Deployed Application Running on AWS EC2
-![Web App](<225305 2026-08-29 צילום מסך.png>)
+<img width="1916" height="795" alt="צילום מסך 2026-08-29 225305" src="https://github.com/user-attachments/assets/f5a9f1b8-4296-4717-a191-81d52084efca" />
+
 
 ### 3. Resource Cleanup (Terraform Destroy)
-![Terraform Destroy](<225644 2026-08-29 צילום מסך.png>)
+<img width="1505" height="957" alt="צילום מסך 2026-08-29 225644" src="https://github.com/user-attachments/assets/555dc7da-b209-4bae-96ec-d3be0a29f058" />
+
