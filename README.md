@@ -20,7 +20,6 @@ This project demonstrates a production-grade cloud architecture by deploying a c
 ## Project Screenshots
 
 ### 1. Infrastructure Provisioning (Terraform Apply)
-<img width="1528" height="963" alt="צילום מסך 2026-08-29 225201" src="https://github.com/user-attachments/assets/ebfc0d9d-abd2-476c-bb96-6f517b9d2280" />
 
 
 ### 2. Deployed Application Running on AWS EC2
@@ -28,5 +27,5 @@ This project demonstrates a production-grade cloud architecture by deploying a c
 
 
 ### 3. Resource Cleanup (Terraform Destroy)
-<img width="1265" height="315" alt="צילום מסך 2026-09-02 113713" src="https://github.com/user-attachments/assets/366d18e2-9102-4da2-896e-b90007a9cc4b" />
+<img width="1511" height="911" alt="צילום מסך 2026-09-02 203954" src="https://github.com/user-attachments/assets/9bece5c7-7390-41cc-bba2-c213c10c8125" />
 
