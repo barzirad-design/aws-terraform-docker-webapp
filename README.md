@@ -24,7 +24,7 @@ This project demonstrates a production-grade cloud architecture by deploying a c
 
 
 ### 2. Deployed Application Running on AWS EC2
-<img width="1916" height="795" alt="צילום מסך 2026-08-29 225305" src="https://github.com/user-attachments/assets/f5a9f1b8-4296-4717-a191-81d52084efca" />
+<img width="1552" height="267" alt="צילום מסך 2026-09-02 113556" src="https://github.com/user-attachments/assets/15a5c2d0-fc7f-4479-81b7-aa471534d838" />
 
 
 ### 3. Resource Cleanup (Terraform Destroy)
