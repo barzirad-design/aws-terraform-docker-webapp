@@ -1,19 +1,21 @@
-# Automated Web Server Provisioning with Terraform & Docker ☁️
+# Highly Available Web Application with Terraform & Docker ☁️
 
 ## Overview
-This project demonstrates the automation of cloud infrastructure using **Terraform** to provision an **AWS EC2 instance**, and **Docker** to containerize and deploy a custom Nginx web application. 
+This project demonstrates a production-grade cloud architecture by deploying a containerized Nginx web application across multiple Availability Zones (Multi-AZ) using **AWS**, **Terraform**, and **Docker**.
 
 ## Architecture & Technologies
 * **Infrastructure as Code (IaC):** Terraform (`main.tf`)
 * **Cloud Provider:** Amazon Web Services (AWS)
+* **High Availability:** Application Load Balancer (ALB) & Multi-AZ EC2 Instances
 * **Containerization:** Docker & Docker Hub
 * **Web Server:** Nginx (Alpine Linux)
 
 ## How It Works
 1. A custom `Dockerfile` packages an HTML page into a lightweight Nginx container image.
 2. The image is published to a public Docker Hub repository.
-3. Terraform automates the infrastructure deployment by provisioning a `t2.micro` EC2 instance and configuring a Security Group to allow inbound HTTP traffic (Port 80).
-4. An automated `user_data` bash script runs upon server boot, installs Docker, pulls the image from Docker Hub, and runs the container.
+3. Terraform automates the infrastructure deployment by provisioning **two `t2.micro` EC2 instances** in separate Availability Zones.
+4. An **Application Load Balancer (ALB)** is configured to distribute incoming HTTP traffic evenly across both instances, ensuring fault tolerance.
+5. An automated `user_data` script runs upon boot on both servers, installs Docker, pulls the image, and runs the container.
 
 ## Project Screenshots
 
