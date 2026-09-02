@@ -25,7 +25,10 @@ This project demonstrates a production-grade cloud architecture by deploying a c
 ### 2. Deployed Application Running on AWS EC2
 <img width="1552" height="267" alt="צילום מסך 2026-09-02 113556" src="https://github.com/user-attachments/assets/15a5c2d0-fc7f-4479-81b7-aa471534d838" />
 
+### 3. High Availability Infrastructure (Terraform Apply)
+**Multi-AZ EC2 Instances Running:**
+<img width="1597" height="662" alt="צילום מסך 2026-09-02 203752" src="https://github.com/user-attachments/assets/235f7953-1947-456b-b205-0cf1d63f603b" />
 
-### 3. Resource Cleanup (Terraform Destroy)
+### 4. Resource Cleanup (Terraform Destroy)
 <img width="1511" height="911" alt="צילום מסך 2026-09-02 203954" src="https://github.com/user-attachments/assets/9bece5c7-7390-41cc-bba2-c213c10c8125" />
 
