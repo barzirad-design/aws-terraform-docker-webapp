@@ -20,7 +20,7 @@ This project demonstrates a production-grade cloud architecture by deploying a c
 ## Project Screenshots
 
 ### 1. Infrastructure Provisioning (Terraform Apply)
-
+<img width="1265" height="315" alt="צילום מסך 2026-09-02 113713" src="https://github.com/user-attachments/assets/85fd42e3-a2f1-46a0-833c-ea605ebd2b93" />
 
 ### 2. Deployed Application Running on AWS EC2
 <img width="1552" height="267" alt="צילום מסך 2026-09-02 113556" src="https://github.com/user-attachments/assets/15a5c2d0-fc7f-4479-81b7-aa471534d838" />
