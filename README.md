@@ -28,5 +28,5 @@ This project demonstrates a production-grade cloud architecture by deploying a c
 
 
 ### 3. Resource Cleanup (Terraform Destroy)
-<img width="1505" height="957" alt="צילום מסך 2026-08-29 225644" src="https://github.com/user-attachments/assets/555dc7da-b209-4bae-96ec-d3be0a29f058" />
+<img width="1265" height="315" alt="צילום מסך 2026-09-02 113713" src="https://github.com/user-attachments/assets/366d18e2-9102-4da2-896e-b90007a9cc4b" />
 
